@@ -8,3 +8,9 @@ This repository is build step by step in the tutorial.
 It now includes steps for GitHub
 
 And now I'm checking how to push a local repo to a remote
+
+These lines are for testing github workflow features
+These lines are for testing github workflow features
+These lines are for testing github workflow features
+These lines are for testing github workflow features
+These lines are for testing github workflow features
