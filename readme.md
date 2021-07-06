@@ -14,3 +14,5 @@ These lines are for testing github workflow features
 These lines are for testing github workflow features
 These lines are for testing github workflow features
 These lines are for testing github workflow features
+
+I'm writing these lines for testing git --amend command
